@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:07,747 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:07,909 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,558 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,562 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,563 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,638 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,940 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,940 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:10,942 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:11,038 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:12,389 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:13,436 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:13,640 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:13,936 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:17,189 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:17,189 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:17,191 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:17,902 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:18,259 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:18,259 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:18,261 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:19,908 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:19,908 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:19,910 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:20,285 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:20,285 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:20,286 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:20,656 INFO  TM_Test - Initiate webdriver
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:25,960 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:26,431 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:28,899 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:28,899 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:28,900 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:29,242 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:29,243 INFO  TM_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ 2017-10-09 14:53:29,244 INFO  TM_Test - Post Condition: Close Browser
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26281" started-at="2017-10-09T07:53:03Z" finished-at="2017-10-09T07:53:29Z">
+    <groups>
+      <group name="catalog">
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@145433b]" name="TC_AddCatalogCategoryProduct" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@145433b]" name="TC_AddCatalogCategoryProduct01" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="TC_AddCatalogCategoryProduct" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="TC_AddCatalogCategoryProduct01" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@34c28c]" name="TC_AddCatalogCategoryProduct" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@34c28c]" name="TC_AddCatalogCategoryProduct01" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="TC_AddCatalogCategoryProduct" class="tests.docker.TM_Test"/>
+        <method signature="TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="TC_AddCatalogCategoryProduct01" class="tests.docker.TM_Test"/>
+      </group> <!-- catalog -->
+    </groups>
+    <test name="TestChrome1" duration-ms="15142" started-at="2017-10-09T07:53:03Z" finished-at="2017-10-09T07:53:18Z">
+      <class name="tests.docker.TM_Test">
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="set_up" is-config="true" duration-ms="7281" started-at="2017-10-09T14:53:03Z" finished-at="2017-10-09T14:53:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:07,747 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="TC_AddCatalogCategoryProduct" duration-ms="11" started-at="2017-10-09T14:53:10Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,558 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,562 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="clean_up" is-config="true" duration-ms="74" started-at="2017-10-09T14:53:10Z" finished-at="2017-10-09T14:53:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@aa0a0a] output=
+ 2017-10-09 14:53:10,558 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,563 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="set_up" is-config="true" duration-ms="7620" started-at="2017-10-09T14:53:10Z" finished-at="2017-10-09T14:53:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,638 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:13,436 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="TC_AddCatalogCategoryProduct01" duration-ms="1" started-at="2017-10-09T14:53:18Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:18,259 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:18,259 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct01 -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@aa0a0a]" name="clean_up" is-config="true" duration-ms="132" started-at="2017-10-09T14:53:18Z" finished-at="2017-10-09T14:53:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct01 status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@aa0a0a] output=
+ 2017-10-09 14:53:18,259 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:18,261 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+      </class> <!-- tests.docker.TM_Test -->
+    </test> <!-- TestChrome1 -->
+    <test name="TestChrome" duration-ms="16770" started-at="2017-10-09T07:53:03Z" finished-at="2017-10-09T07:53:20Z">
+      <class name="tests.docker.TM_Test">
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@145433b]" name="set_up" is-config="true" duration-ms="7667" started-at="2017-10-09T14:53:03Z" finished-at="2017-10-09T14:53:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:07,909 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@145433b]" name="TC_AddCatalogCategoryProduct" duration-ms="2" started-at="2017-10-09T14:53:10Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,940 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,940 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@145433b]" name="clean_up" is-config="true" duration-ms="95" started-at="2017-10-09T14:53:10Z" finished-at="2017-10-09T14:53:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@145433b] output=
+ 2017-10-09 14:53:10,940 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:10,942 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@145433b]" name="set_up" is-config="true" duration-ms="8869" started-at="2017-10-09T14:53:11Z" finished-at="2017-10-09T14:53:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:11,038 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:13,640 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@145433b]" name="TC_AddCatalogCategoryProduct01" duration-ms="2" started-at="2017-10-09T14:53:19Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:19,908 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:19,908 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct01 -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@145433b]" name="clean_up" is-config="true" duration-ms="112" started-at="2017-10-09T14:53:19Z" finished-at="2017-10-09T14:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct01 status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@145433b] output=
+ 2017-10-09 14:53:19,908 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:19,910 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+      </class> <!-- tests.docker.TM_Test -->
+    </test> <!-- TestChrome -->
+    <test name="TestFirefox1" duration-ms="26112" started-at="2017-10-09T07:53:03Z" finished-at="2017-10-09T07:53:29Z">
+      <class name="tests.docker.TM_Test">
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="set_up" is-config="true" duration-ms="13917" started-at="2017-10-09T14:53:03Z" finished-at="2017-10-09T14:53:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:12,389 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="TC_AddCatalogCategoryProduct" duration-ms="1" started-at="2017-10-09T14:53:17Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:17,189 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:17,189 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="clean_up" is-config="true" duration-ms="710" started-at="2017-10-09T14:53:17Z" finished-at="2017-10-09T14:53:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@1168fa9] output=
+ 2017-10-09 14:53:17,189 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:17,191 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="set_up" is-config="true" duration-ms="10996" started-at="2017-10-09T14:53:17Z" finished-at="2017-10-09T14:53:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:17,902 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:25,960 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="TC_AddCatalogCategoryProduct01" duration-ms="1" started-at="2017-10-09T14:53:28Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:28,899 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:28,899 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct01 -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@1168fa9]" name="clean_up" is-config="true" duration-ms="464" started-at="2017-10-09T14:53:28Z" finished-at="2017-10-09T14:53:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct01 status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@1168fa9] output=
+ 2017-10-09 14:53:28,899 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:28,900 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+      </class> <!-- tests.docker.TM_Test -->
+    </test> <!-- TestFirefox1 -->
+    <test name="TestFirefox" duration-ms="26281" started-at="2017-10-09T07:53:03Z" finished-at="2017-10-09T07:53:29Z">
+      <class name="tests.docker.TM_Test">
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@34c28c]" name="set_up" is-config="true" duration-ms="17012" started-at="2017-10-09T14:53:03Z" finished-at="2017-10-09T14:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:03,282 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:13,936 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@34c28c]" name="TC_AddCatalogCategoryProduct" duration-ms="2" started-at="2017-10-09T14:53:20Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:20,285 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:20,285 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@34c28c]" name="clean_up" is-config="true" duration-ms="369" started-at="2017-10-09T14:53:20Z" finished-at="2017-10-09T14:53:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct()[pri:0, instance:tests.docker.TM_Test@34c28c] output=
+ 2017-10-09 14:53:20,285 INFO  TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:20,286 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+        <test-method status="PASS" signature="set_up(java.lang.String)[pri:0, instance:tests.docker.TM_Test@34c28c]" name="set_up" is-config="true" duration-ms="8585" started-at="2017-10-09T14:53:20Z" finished-at="2017-10-09T14:53:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:20,656 INFO  TM_Test - Initiate webdriver
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:26,431 INFO  TM_Test - Pre-condition: Navigate to Login page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@34c28c]" name="TC_AddCatalogCategoryProduct01" duration-ms="2" started-at="2017-10-09T14:53:29Z" description="Verify that user add catalog, category and product properly" finished-at="2017-10-09T14:53:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:29,242 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:29,243 INFO  TM_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_AddCatalogCategoryProduct01 -->
+        <test-method status="PASS" signature="clean_up(org.testng.ITestResult)[pri:0, instance:tests.docker.TM_Test@34c28c]" name="clean_up" is-config="true" duration-ms="286" started-at="2017-10-09T14:53:29Z" finished-at="2017-10-09T14:53:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_AddCatalogCategoryProduct01 status=SUCCESS method=TM_Test.TC_AddCatalogCategoryProduct01()[pri:0, instance:tests.docker.TM_Test@34c28c] output=
+ 2017-10-09 14:53:29,242 INFO  TM_Test - TC_AddCatalogCategoryProduct01 - Step 1: Login with a valid account (no iframe)
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[
+ 2017-10-09 14:53:29,244 INFO  TM_Test - Post Condition: Close Browser
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clean_up -->
+      </class> <!-- tests.docker.TM_Test -->
+    </test> <!-- TestFirefox -->
+  </suite> <!-- Suite -->
+</testng-results>

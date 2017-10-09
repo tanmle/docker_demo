@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<script langauge="JavaScript" type="text/javascript">
+function doMenu(item) {
+ obj=document.getElementById(item);
+ col=document.getElementById("x" + item);
+ if (obj.style.display=="none") {
+  obj.style.display="block";
+  col.innerHTML="[-]";
+ }
+ else {
+  obj.style.display="none";
+  col.innerHTML="[+]";
+ }
+}
+</script>
+<head>
+  <title>Test Results Report - Log Output</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+  <h1>Log Output</h1>
+  <p>
+    Combined output from all calls to the log methods of the <a href="http://testng.org/javadocs/org/testng/Reporter.html">TestNG Reporter</a>.    
+  </p>
+<a href="JavaScript:doMenu('log');" id=xmain>[+]</a> Steps:
+  <div id="log">
+                  <br/>
+ 2017-10-09 14:33:53,484 INFO&nbsp; TM_Test - Initiate webdriver<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:33:54,949 INFO&nbsp; TM_Test - Pre-condition: Navigate to Login page<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:33:56,722 INFO&nbsp; TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:33:56,726 INFO&nbsp; TM_Test - ===PASSED===<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:33:56,729 INFO&nbsp; TM_Test - Post Condition: Close Browser<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:33:56,797 INFO&nbsp; TM_Test - Initiate webdriver<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:33:58,050 INFO&nbsp; TM_Test - Pre-condition: Navigate to Login page<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:00,111 INFO&nbsp; TM_Test - TC_DeleteAllCatalogs - Step 1: Login with a valid account (no iframe)<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:00,111 INFO&nbsp; TM_Test - ===PASSED===<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:00,112 INFO&nbsp; TM_Test - Post Condition: Close Browser<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:00,214 INFO&nbsp; TM_Test - Initiate webdriver<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:06,886 INFO&nbsp; TM_Test - Pre-condition: Navigate to Login page<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:09,120 INFO&nbsp; TM_Test - TC_AddCatalogCategoryProduct - Step 1: Login with a valid account (no iframe)<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:09,120 INFO&nbsp; TM_Test - ===PASSED===<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:09,122 INFO&nbsp; TM_Test - Post Condition: Close Browser<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:09,318 INFO&nbsp; TM_Test - Initiate webdriver<br/>
+<br />
+                        <br/>
+ 2017-10-09 14:34:57,391 INFO&nbsp; TM_Test - Pre-condition: Navigate to Login page<br/>
+<br />
+            </div>
+
+</body>
+</html>

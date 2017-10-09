@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="actions.config.MethodListener"/>
+  </listeners>
+  <test name="TestChrome1(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.docker.TM_Test">
+        <methods>
+          <include name="TC_AddCatalogCategoryProduct"/>
+          <include name="clean_up"/>
+          <include name="set_up"/>
+        </methods>
+      </class> <!-- tests.docker.TM_Test -->
+    </classes>
+  </test> <!-- TestChrome1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
